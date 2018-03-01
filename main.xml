@@ -1,76 +1,44 @@
-<dir>
-<title>Action movies</title>
-<tmdb>list/https://www.themoviedb.org/list/47583</tmdb>
-</dir>
-
-<dir>
-<title>Beast Action</title>
-<tmdb>list/https://www.themoviedb.org/list/47747</tmdb>
-</dir>
- 
-<dir>
-<title>Predator mythology</title>
-<tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
-</dir>
-
-<dir>
-<title>Hood movies</title>
-<tmdb>list/https://www.themoviedb.org/list/47832</tmdb>
-</dir>
-
-<dir>
-<title>Comedy movies</title>
-<tmdb>list/https://www.themoviedb.org/list/47834</tmdb>
-</dir>
-
-<dir>
-<title> movies</title>
-<tmdb>list/https://www.themoviedb.org/list/47833</tmdb>
-</dir>
-
-<dir>
-<title>Comedy</title>
-<tmdb>list/https://www.themoviedb.org/list/47754</tmdb>
-</dir>
-
-<dir>
-   <title>DC</title>
-   <link>https://raw.githubusercontent.com/Trapper69/trappor/master/DC.xml</link>
-</dir>
-
-<dir>
-<title>Predator westerns</title>
-<tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
-</dir>
-
-<dir>
-<title>Beast list</title>
-<tmdb>list/https://www.themoviedb.org/list/47690</tmdb>
-</dir>
-
-<dir>
-<title>Trapper tv shows</title>
-<tmdb>list/https://www.themoviedb.org/list/46939</tmdb>
-</dir>
-
-<dir>
-<title>Trapper animes</title>
-<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
-</dir>
-
-<dir>
-<title>Trapper Urban</title>
-<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
-</dir>
-
-<dir>
-    <title>actors (2)</title>
-    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/actors%20(2).xml</link>
-  </dir>
+<xml>
   <dir>
-    <title>Collections</title>
-    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/collections.xml</link>
-</dir>
+    <title>movies</title>
+    <link>https://raw.githubusercontent.com/lost50/timber/master/movies.xml</link>
+  </dir>
+</xml>
+
+<dir>
+    <title>Releass</title>
+    <link>https://raw.githubusercontent.com/lost50/timber/master/Releass.xml</link>
+  </dir>
+
+  <dir>
+    <title>collecter</title>
+    <link>https://raw.githubusercontent.com/lost50/timber/master/collecter.xml</link>
+  </dir>
+</xml>
+
+  <dir>
+    <title>Urban</title>
+    <link>https://raw.githubusercontent.com/lost50/timber/master/Urban.xml</link>
+  </dir>
+</xml>
+
+  <dir>
+    <title>kids place</title>
+    <link>https://raw.githubusercontent.com/lost50/timber/master/kids%20place.xml</link>
+  </dir>
+</xml>
+
+  <dir>
+    <title>actors</title>
+    <link>https://raw.githubusercontent.com/lost50/timber/master/actors%20and%20actess.xml</link>
+  </dir>
+</xml>
+
+  <dir>
+    <title>tv shows</title>
+    <link>https://raw.githubusercontent.com/lost50/timber/master/tv%20shows.xml</link>
+  </dir>
+</xml>
 
 <dir>
     <title>Movie Genres</title>
@@ -93,12 +61,6 @@
 	<thumbnail></thumbnail>
 </dir>
 
-<dir>
-<title>list</title>
-<imdburl>list/http://www.imdb.com/user/ur84874002/lists</imdburl>
-<thumbnail></thumbnail>
-</dir>
-  
 <dir>
 <title>Search TMDB</title>
 <tmdb>search</tmdb>
