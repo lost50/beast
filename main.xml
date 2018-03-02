@@ -34,6 +34,12 @@
   </dir>
 </xml>
 
+ <dir>
+    <title>actors list</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/acters%20list.xml</link>
+  </dir>
+</xml>
+
   <dir>
     <title>tv shows</title>
     <link>https://raw.githubusercontent.com/lost50/timber/master/tv%20shows.xml</link>
