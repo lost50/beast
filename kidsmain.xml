@@ -1,0 +1,74 @@
+<dir>
+	<title>[COLORgreenyellow]K[COLORsnow]ids Animated[/COLOR]</title>
+	<trakt>https://api.trakt.tv/users/shanstark71/lists/animation-movies/items</trakt>
+	<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+	<title>[COLORgreenyellow]K[COLORsnow]ids Live Action[/COLOR]</title>
+	<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-live-action/items</trakt>
+	<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+	<title>[COLORgreenyellow]F[COLORsnow]urry Friends[/COLOR]</title>
+	<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-furry/items</trakt>
+	<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+	<title>[COLORgreenyellow]S[COLORsnow]tudio Ghibli[/COLOR]</title>
+	<trakt>https://api.trakt.tv/users/shanstark71/lists/studio-ghibli-movies/items</trakt>
+	<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+	<title>[COLORgreenyellow]R[COLORsnow]oald Dahl Movies[/COLOR]</title>
+	<trakt>https://api.trakt.tv/users/shanstark71/lists/roald-dahl-movies/items</trakt>
+	<thumbnail></thumbnail>
+</dir>
+
+<dir>
+	<title>[COLORgreenyellow]K[COLORsnow]ids Boxsets[/COLOR]</title>
+	<link>http://fecklewick.uk/goose/lists/kids_boxset.xml</link>
+</dir>
+
+<dir>
+  <title>[COLORgreenyellow]C[COLORsnow]artoon Network[/COLOR]</title>
+  <tmdb>network/shows/56</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+	<title>[COLORgreenyellow]D[COLORsnow]isney Films[/COLOR]</title>
+	<link>http://fecklewick.uk/goose/lists/disney.xml</link>
+</dir>
+
+<dir>
+  <title>[COLORgreenyellow]D[COLORsnow]isney Channel[/COLOR]</title>
+  <tmdb>network/shows/54</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>[COLORgreenyellow]D[COLORsnow]isney XD[/COLOR]</title>
+  <tmdb>network/shows/44</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>[COLORgreenyellow]N[COLORsnow]ickelodeon[/COLOR]</title>
+  <tmdb>network/shows/13</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>[COLORgreenyellow]F[COLORsnow]ox Kids[/COLOR]</title>
+  <tmdb>network/shows/86</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
