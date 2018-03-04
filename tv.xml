@@ -1,111 +1,29 @@
 <dir>
-    <title>[COLORgreenyellow]B[COLORsnow]iker TV[/COLOR]</title>
-    <imdburl>list/ls021644248/</imdburl>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-dir>
-    <title>[COLORgreenyellow]S[COLORsnow]tar Trek Borg Collection[/COLOR]</title>
-	<imdburl>list/ls021692659/</imdburl>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
+  <title>Trending Shows</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
 </dir>
 
 <dir>
-    <title>[COLORgreenyellow]T[COLOR snow]v Genres[/COLOR]</title>
-    <link>file://goose/lists/genre_tv.xml</link>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-dir>
-    <title>[COLORgreenyellow]T[COLORsnow]V Box Sets[/COLOR]</title>
-    <tmdb>list/39675?limit=40&page=1</tmdb>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
+  <title>Popular Shows</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
 </dir>
 
 <dir>
-  <title>[COLORgreenyellow]N[COLORsnow]etflix Shows[/COLOR]</title>
-  <tmdb>network/shows/213</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
+  <title>TMDB Popular</title>
+  <tmdb>tv/popular</tmdb>
 </dir>
 
 <dir>
-    <title>[COLORgreenyellow]A[COLORsnow]iring Today[/COLOR]</title>
-    <tmdb>tv/today</tmdb>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
+  <title>TMDB Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
 </dir>
 
 <dir>
-    <title>[COLORgreenyellow]P[COLORsnow]opular TV Shows[/COLOR]</title>
-    <tmdb>tv/popular</tmdb>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-dir>
-    <title>[COLORgreenyellow]M[COLORsnow]ost Popular TV Shows[/COLOR]</title>
-    <imdburl>charttv/tvmeter</imdburl>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-dir>
-    <title>[COLORgreenyellow]T[COLORsnow]op Shows[/COLOR]</title>
-    <imdburl>charttv/toptv</imdburl>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-dir>
-    <title>[COLORgreenyellow]250[COLORsnow] Most Rated Shows[/COLOR]</title>
-    <imdburl>chart/toptv</imdburl>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
+  <title>TMDB Animation Shows</title>
+  <tmdb>genre/shows/16</tmdb>
 </dir>
 
 <dir>
-    <title>[COLORgreenyellow]T[COLORsnow]rending Shows[/COLOR]</title>
-    <trakt>https://api.trakt.tv/shows/trending</trakt>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]N[COLORsnow]etworks[/COLOR]</title>
-    <link>file://goose/tv/networks.xml</link>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]M[COLORsnow]y TV Watchlist[/COLOR]</title>
-    <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]M[COLORsnow]y TV Collection[/COLOR]</title>
-    <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]S[COLORsnow]earch Trakt[/COLOR]</title>
-    <trakt>search</trakt>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]S[/COLOR][COLORsnow]earch TMDB[/COLOR]</title>
-    <tmdb>search</tmdb>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+  <title>TMDB Reality Shows</title>
+  <tmdb>genre/shows/10764</tmdb>
 </dir>
