@@ -1,23 +1,7 @@
-###nain step 1
-<dir>
-        <name>Catch Up TV</name>
-        <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/tv.xml</link>
-
-</dir>
 
 <dir>
 <title>Crime and Gangster</title>
 <tmdb>list/44688</tmdb>
-</dir>
-
-<dir>
-        <name>Horror</name>
-        <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/horror.xml</link>
- </dir>
-
-<dir>
-<name>New Release</name>
-<link>https://raw.githubusercontent.com/graciegreen1122/alice/master/screeners.xml</link>
 </dir>
 
 <dir>
@@ -26,8 +10,8 @@
 </dir>
 
 <dir>
-        <name>Sci-fi</name>
-        <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/sci.xml</link>
+   <name>Sci-fi</name>
+   <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/sci.xml</link>
 </dir>
 
 <dir>
@@ -40,7 +24,3 @@
 <tmdb>list/44690</tmdb>
 </dir>
 
-<dir>
-<title>Search Internet Movies</title>
-<tmdb>search</tmdb>
-</dir>

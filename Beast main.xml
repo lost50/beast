@@ -38,11 +38,6 @@
 </dir>
 
 <dir>
-    <title>collecter 2</title>
-    <link>https://raw.githubusercontent.com/lost50/beast/master/collections%202.xml</link>
-</dir>
-
-<dir>
     <title>Horro</title>
     <link>https://raw.githubusercontent.com/lost50/beast/master/cazzahorrorcollection.xml</link>
 </dir>
@@ -58,18 +53,18 @@
 </dir>
 
 <dir>
-    <title>cazz fi</title>
+    <title>sci fi</title>
     <link>https://raw.githubusercontent.com/lost50/beast/master/cazzasci-ficollection.xml</link>
 </dir>
 
 <dir>
-    <title>cazz m</title>
+    <title>mix</title>
     <link>https://raw.githubusercontent.com/lost50/beast/master/cazzamain.xml</link>
 </dir>
 
 <dir>
-    <title>cazz m</title>
-    <link>https://raw.githubusercontent.com/lost50/beast/master/cazzamain.xml</link>
+    <title>tv</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/cazzatv.xml</link>
 </dir>
 
   <dir>
