@@ -1,86 +1,7 @@
-<dir>
-    <title>[COLORgreenyellow]Newest Releases[/COLOR](cam)</title>
-    <Airtable>newest_releases/page1</Airtable>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]New Releases[/COLOR](real debrid)</title>
-    <Airtable>new_releases/page1</Airtable>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]Biker Movies Screen I[/COLOR]</title>
-    <tmdb>list/39645</tmdb>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]Biker Movies Screen II[/COLOR]</title>
-    <imdburl>list/ls027410975/</imdburl>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]Now Playing[/COLOR]</title>
-    <tmdb>movies/now_playing</tmdb>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]HD Movies[/COLOR](1 Click Play)</title>
-    <link>file://goose/movies/direct.xml</link>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]Movie Genres[/COLOR]</title>
-    <link>file://Orgis/goose/lists/genre_movies.xml</link>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
 
 <dir>
     <title>[COLORgreenyellow]Girls With Guns[/COLOR]</title>
     <tmdb>list/932</tmdb>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]100 years... 100 laughs[/COLOR]</title>
-    <tmdb>list/3682</tmdb>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]Production Companys[/COLOR]</title>
-	<link>file://goose/lists/production.xml</link>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]Box Sets[/COLOR]</title>
-    <link>file://goose/lists/lists.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]Popular Movies[/COLOR]</title>
-    <tmdb>movies/popular</tmdb>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-dir>
-    <title>[COLORgreenyellow]100 Most Popular Movies[/COLOR]</title>
-    <imdburl>chart/moviemeter</imdburl>
 	<thumbnail></thumbnail>
     <fanart></fanart>
 </dir>
@@ -106,24 +27,3 @@ dir>
     <fanart></fanart>
 </dir>
 
-<dir>
-    <title>[COLORgreenyellow]My Movie Trakt Watchlist[/COLOR]</title>
-    <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]My Trakt Movie Collections[/COLOR]</title>
-    <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
-	<thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
-
-<dir>
-    <title>[COLORgreenyellow]Search Tmdb[/COLOR]</title>
-    <tmdb>search</tmdb>
-	<thumbnail></thumbnail>
-	<fanart>http://</fanart>
-</dir>
-</xml>
