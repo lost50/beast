@@ -33,6 +33,11 @@
 </dir>
 
 <dir>
+  <title>Boxset</title>
+  <link>https://raw.githubusercontent.com/lost50/beast/master/boxsets.xml</link>
+</dir>
+
+<dir>
     <title>collecter</title>
     <link>https://raw.githubusercontent.com/lost50/timber/master/collecter.xml</link>
 </dir>
@@ -75,7 +80,7 @@
 
   <dir>
     <title>kids place</title>
-    <link>https://raw.githubusercontent.com/lost50/timber/master/kids%20place.xml</link>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/kids%20place.xml</link>
   </dir>
 </xml>
 
