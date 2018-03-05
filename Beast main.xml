@@ -43,8 +43,33 @@
 </dir>
 
 <dir>
-    <title>cazz</title>
+    <title>Horro</title>
     <link>https://raw.githubusercontent.com/lost50/beast/master/cazzahorrorcollection.xml</link>
+</dir>
+
+<dir>
+    <title>scifi</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/cazza%20scifi-subtomain.xml</link>
+</dir>
+
+<dir>
+    <title>c horro</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/cazzahorror-subtomain.xml</link>
+</dir>
+
+<dir>
+    <title>cazz fi</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/cazzasci-ficollection.xml</link>
+</dir>
+
+<dir>
+    <title>cazz m</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/cazzamain.xml</link>
+</dir>
+
+<dir>
+    <title>cazz m</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/cazzamain.xml</link>
 </dir>
 
   <dir>
@@ -61,7 +86,7 @@
 
 <dir>
     <title>kids place 2</title>
-    <link>https://github.com/lost50/beast/blob/master/kidsmain.xml</link>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/kidsmain.xml</link>
   </dir>
 </xml>
 
